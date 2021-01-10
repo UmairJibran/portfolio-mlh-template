@@ -1,9 +1,9 @@
 title: "Umair Jibran"
 email: umairjibran7@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Umair Jibran is a cross-platform(web and mobile) developer. He uses flutter for mobile application development, while for web development he prefers to use Embedded JavaScript(EJS). He loves NodeJS and PHP for backend functionalities.
+
+  He has conducted different workshops and seminars. He however is currently acting as Campus lead for Microsoft Learn Program.
 baseurl: "/" 
 url: "https://umairjibran.github.io/" 
 twitter_username: umairjibran7
